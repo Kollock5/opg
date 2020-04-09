@@ -1,4 +1,4 @@
-package uebung_1.tast_2;
+package uebung_1.task_2;
 
 public class PrettyOut {
   public static void main(String[] args) {
