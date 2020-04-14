@@ -1,4 +1,4 @@
-package uebung_1.task_0;
+package exercise_1.task_0;
 
 public class HelloWorld {
   public static void main(final String[] args) {
